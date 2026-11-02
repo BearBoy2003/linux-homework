@@ -1,0 +1,2 @@
+grep max /etc/passwd
+max:x:1001:1001::/home/max:/usr/bin/bash
